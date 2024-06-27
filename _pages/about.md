@@ -29,15 +29,17 @@ I have broad research interests in urban complex system, integrated urban modell
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analyzing housing supply location choice: a comparative study of the modelling frameworks](https://www.nature.com/articles/s41598-024-51754-9.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yu Zhang**, Eric Miller
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://www.nature.com/articles/s41598-024-51754-9) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Comparison of two framework of modelling supply spatial distribution: the location-conditional development choice & the project-conditional location choice
+- Nested logit model and multinominal logit model methods applied in the two framework
+- Empirical analysis in the City of Toronto
 </div>
 </div>
 
