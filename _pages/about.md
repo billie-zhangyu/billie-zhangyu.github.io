@@ -96,27 +96,28 @@ I have broad research interests in urban complex system, integrated urban modell
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHMA 2023</div><img src='images/IJHMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Habitat International 2020</div><img src='images/HI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Migrant housing choices from a social capital perspective: The case of Shenzhen, China](assets/10-1108_IJHMA-02-2022-0033.pdf)
+[Migrant housing choices from a social capital perspective: The case of Shenzhen, China]([assets/10-1108_IJHMA-02-2022-0033.pdf](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0197397518311895/pdfft?md5=0cc1d2a23c6b26c8646913d5b5d01823&pid=1-s2.0-S0197397518311895-main.pdf))
 
-**Yu Zhang**, Arnab Rahman, Eric Miller
+De Tong, **Yu Zhang**, Ian MacLachlan, Guicai Li
 
-[**Project**](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-02-2022-0033/full/html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Temporal modelling of housing price with longitudinal housing transaction dataset in the Greater Toronto and Hamilton Area
-- Three machine learning algorithms tested (Decision tree, linear regression and random forest) in fitting the housing price temporal trends
+[**Project**](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0197397518311895) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Analysis of the migrant housing choice in urban villages and residential segregation
+- Identification of the reciprocal influential path of social capital nurtured in the urban villages 
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* University of Toronto Fellowship, Department of Civil Engineering
+- *2019.10* Richard Soberman Graduate Student Fellowship, University of Toronto 
+- *2019.06* Graduate Dissertation Grant, Peking University – Lincoln Institute 
+- *2018.06* School Principal Scholarship, Peking University       
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.06*, Ph.D. in Civil Engineering, University of Toronto, Toronto, ON, Canada
+- *2016.09 - 2019.06*, Master of Science in Urban Planning, Peking University, Beijing, China
+- *2012.09 - 2016.06*, Bachelor of Public Administration, Zhejiang University, Hangzhou, China
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
