@@ -46,7 +46,7 @@ I have broad research interests in urban complex system, integrated urban modell
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHMA 2023</div><img src='images/41598_2024_51754_Fig1_HTML.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Longitudinal modelling of housing prices with machine learning and temporal regression](https://www.nature.com/articles/s41598-024-51754-9.pdf)
+[Longitudinal modelling of housing prices with machine learning and temporal regression](assets/10-1108_IJHMA-02-2022-0033.pdf)
 
 **Yu Zhang**, Arnab Rahman, Eric Miller
 
