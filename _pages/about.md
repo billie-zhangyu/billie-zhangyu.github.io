@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work as a postdoctoral research fellow at <a href='https://tmg.utoronto.ca/'>Travel modelling group (TMG)</a> at the Department of Civil & Mineral Engineering at University of Toronto.
+I am a postdoctoral research fellow at <a href='https://tmg.utoronto.ca/'>Travel modelling group (TMG)</a> at the <a href='https://civmin.utoronto.ca/'>Department of Civil & Mineral Engineering at University of Toronto</a>. I completed my Ph.D. study in Civil Engineering in the same department, during which I worked with Prof. Eric J. Miller on the Integrated Land Use, Transportation, Environment (ILUTE) urban microsimulation systems. My Ph.D. thesis develops a multi-phases framework simulating the housing supply process. My postdoctoral work involves consulting projects for Infrastructure Canada (INFC) on transportation data harmonization and avoided Greenhouse Gas (GHG) emission estimation by transit investment. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have broad research interests in urban complex system, integrated urban modelling, housing market analysis, and transportation planning in general. My four ongoing research projects relate to urban network science, land use cover change driven by new technologies, and quality of living and planning equity. My academic resume could be found at <a href='assets/CV_long_Zhang.pdf'>here</a>. 
 
 
 # 🔥 News
