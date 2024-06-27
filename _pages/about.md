@@ -29,7 +29,7 @@ I have broad research interests in urban complex system, integrated urban modell
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio 2024</div><img src='images/41598_2024_51754_Fig1_HTML.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analyzing housing supply location choice: a comparative study of the modelling frameworks](https://www.nature.com/articles/s41598-024-51754-9.pdf)
