@@ -51,12 +51,63 @@ I have broad research interests in urban complex system, integrated urban modell
 **Yu Zhang**, Arnab Rahman, Eric Miller
 
 [**Project**](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-02-2022-0033/full/html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Comparison of two framework of modelling supply spatial distribution: the location-conditional development choice & the project-conditional location choice
-- Nested logit model and multinominal logit model methods applied in the two framework
-- Empirical analysis in the City of Toronto
+- Temporal modelling of housing price with longitudinal housing transaction dataset in the Greater Toronto and Hamilton Area
+- Three machine learning algorithms tested (Decision tree, linear regression and random forest) in fitting the housing price temporal trends
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP-B 2023</div><img src='images/EP-B.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting housing construction period based on a cox proportional hazard model––an empirical study of housing completions in the greater Toronto and Hamilton area](https://journals.sagepub.com/doi/pdf/10.1177/23998083221143386?download=true)
+
+**Yu Zhang**, Eric Miller
+
+[**Project**](https://journals.sagepub.com/doi/full/10.1177/23998083221143386) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Cox-proportional Hazard model applied to the estimation of construction duration
+- Separated modelling of each structure type, and accuracy rate of 90% on the completed projects
+- Time to complete estimation model protytpe in housing supply simulation 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSPP 2023</div><img src='images/RSPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[De‐Peripheralization and Rural Land Capitalization: An Empirical Study of a Public‐Private Partnership in Zhaoqing, China](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S1757780223007576/pdfft?md5=059063103487b716a449db7a2a36bc4a&pid=1-s2.0-S1757780223007576-main.pdf)
+
+**Yu Zhang**
+
+[**Project**](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S1757780223007576) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Land value capture and land readjustment policy analysis in the urban peripheral area in China
+- Institutional design in land capitalization and public-private partnership
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JUPD 2021</div><img src='images/JUPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatial autoregressive analysis and modeling of housing prices in city of Toronto](assets/UPENG-3144.pdf)
+
+**Yu Zhang**, Dachuan Zhang, Eric Miller
+
+[**Project**](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29UP.1943-5444.0000651) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Spatial modelling of housing price with GWR and random forest machine learning algorithms
+- Simulation performance and accuracy of 87% in replicating the housing transaction price
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHMA 2023</div><img src='images/IJHMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Migrant housing choices from a social capital perspective: The case of Shenzhen, China](assets/10-1108_IJHMA-02-2022-0033.pdf)
+
+**Yu Zhang**, Arnab Rahman, Eric Miller
+
+[**Project**](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-02-2022-0033/full/html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Temporal modelling of housing price with longitudinal housing transaction dataset in the Greater Toronto and Hamilton Area
+- Three machine learning algorithms tested (Decision tree, linear regression and random forest) in fitting the housing price temporal trends
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
