@@ -43,7 +43,19 @@ I have broad research interests in urban complex system, integrated urban modell
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHMA 2023</div><img src='images/41598_2024_51754_Fig1_HTML.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Longitudinal modelling of housing prices with machine learning and temporal regression](https://www.nature.com/articles/s41598-024-51754-9.pdf)
+
+**Yu Zhang**, Arnab Rahman, Eric Miller
+
+[**Project**](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-02-2022-0033/full/html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Comparison of two framework of modelling supply spatial distribution: the location-conditional development choice & the project-conditional location choice
+- Nested logit model and multinominal logit model methods applied in the two framework
+- Empirical analysis in the City of Toronto
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
