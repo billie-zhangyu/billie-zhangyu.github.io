@@ -99,7 +99,7 @@ I have broad research interests in urban complex system, integrated urban modell
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Habitat International 2020</div><img src='images/HI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Migrant housing choices from a social capital perspective: The case of Shenzhen, China]([assets/10-1108_IJHMA-02-2022-0033.pdf](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0197397518311895/pdfft?md5=0cc1d2a23c6b26c8646913d5b5d01823&pid=1-s2.0-S0197397518311895-main.pdf))
+[Migrant housing choices from a social capital perspective: The case of Shenzhen, China](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0197397518311895/pdfft?md5=0cc1d2a23c6b26c8646913d5b5d01823&pid=1-s2.0-S0197397518311895-main.pdf)
 
 De Tong, **Yu Zhang**, Ian MacLachlan, Guicai Li
 
@@ -119,9 +119,27 @@ De Tong, **Yu Zhang**, Ian MacLachlan, Guicai Li
 - *2016.09 - 2019.06*, Master of Science in Urban Planning, Peking University, Beijing, China
 - *2012.09 - 2016.06*, Bachelor of Public Administration, Zhejiang University, Hangzhou, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Teaching Development
+- *2024.05 - 2024.06*, Course Instructor of EAS 273 Modern Chinese Cities, University of Toronto
+- *2023.01 - 2023.04*, Guest Lecturer of CIV1535 Transportation and Development, University of Toronto
+- *2022.05 - 2023.08*, Certified Trainee in TEP1204 Teaching Higher Education in Engineering, Prospective Professor in Training 
+- *2021.01 - 2022.04*, Teaching Assistant of CIV1535 Transportation and Development, University of Toronto
+- *2020.01 - 2020.04*, Teaching Assistant of CIV332 Transportation Performance, University of Toronto
+- *2019.09 - 2021.12*, Teaching Assistant of CIV331 Transportation Planning I, University of Toronto
+- *2019.07 - 2019.08*, Teaching Assistant of the Artificial Intelligence and Social Network Analysis, Communication University of China
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Service and Membership
+- *Journal Peer Reviewer* 
+Regional Science: Policy & Practice
+Journal of Housing and Built Environment 
+Cities 
+Applied Geography 
+- *Organization of Conferences, Workshops, Panels, Symposia*
+2024	Co-organizer, Emerging Mobility Scholars Conference and Summer School, University of Toronto, Toronto ON 
+- *Organizational Membership*
+Student Member, Canadian Institute of Planners (CIP), 2020 – present
+Mentor, Society for Canadian Women in Science and Technology (SCWIST), 2021 – present
+Student Ambassador, Ontario Network of Women in Engineering (ONWiE), 2021 – present 
+Student Member, Canadian Society for Civil Engineering (CSCE), 2022 - present
+Student Member, Association of Collegiate Schools of Planning (ACSP), 2018 - present
+Student Member, American Association of Geographers (AAG), 2018 - present 
