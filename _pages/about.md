@@ -23,8 +23,9 @@ I have broad research interests in urban complex system, integrated urban modell
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 The University of Toronto Mobility Network held the 2024 annual summer school on June 24 & 25. The theme this year was "Transit Oriented Development: Opportunities & Challenges". Yu Zhang (Billie) serves as the co-organizer and instructor of sub-topic "Mobility and Place: Accessibility as the nexus between land use and transportation using the Golen Mile Area as a case study".
+- *2024.06*: &nbsp;🎉🎉 Billie presented her thesis entitled "An Investigation on the Housing Market and the Supply Modelling Process" on the Ph.D. award workshop on the 5th World Symposium of Transport and Land use (WSTLUR) conference in Bogotá, Colombia. 
+- *2024.06*: &nbsp;🎉🎉 Billie presented the working paper with Prof. Eric J. Miller, "Location Choice Modelling of Housing Supply: An application of the multiple discrete-continuous extreme value (MDCEV) model" on the 5th World Symposium of Transport and Land use (WSTLUR) conference in Bogotá, Colombia. 
 
 # 📝 Publications 
 
